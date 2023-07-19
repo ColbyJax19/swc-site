@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/swc-site/static/css/main.6cd4d9a1.css",
+    "main.js": "/swc-site/static/js/main.fd3c663e.js",
+    "static/media/gutter-cleaning.jpg": "/swc-site/static/media/gutter-cleaning.0a5bc0ba4bdbac77e36f.jpg",
+    "static/media/pressure-washing.jpg": "/swc-site/static/media/pressure-washing.925e2de50bf63a0e8003.jpg",
+    "static/media/kitty.jpg": "/swc-site/static/media/kitty.f46900f1eb976af633e9.jpg",
+    "static/media/Headshot.jpg": "/swc-site/static/media/Headshot.bf0aad0e96900794d373.jpg",
+    "static/media/guarantee.png": "/swc-site/static/media/guarantee.13d5ba879d2e3f8ff33a.png",
+    "static/media/house.jpg": "/swc-site/static/media/house.029e9e62ee2b7d69e9d5.jpg",
+    "static/media/scrub.jpg": "/swc-site/static/media/scrub.6d4b3f3325ef853c1fff.jpg",
+    "static/media/swc_horz_logo.png": "/swc-site/static/media/swc_horz_logo.6d293d1a01df8f8bfe31.png",
+    "static/media/phone.png": "/swc-site/static/media/phone.2bdd6fc2675030e95f93.png",
+    "static/media/squeegee.jpg": "/swc-site/static/media/squeegee.d1ec185b55acf5a78250.jpg",
+    "static/media/email.png": "/swc-site/static/media/email.f8956154d5eb279fbb2f.png",
+    "index.html": "/swc-site/index.html",
+    "main.6cd4d9a1.css.map": "/swc-site/static/css/main.6cd4d9a1.css.map",
+    "main.fd3c663e.js.map": "/swc-site/static/js/main.fd3c663e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cd4d9a1.css",
+    "static/js/main.fd3c663e.js"
+  ]
+}
