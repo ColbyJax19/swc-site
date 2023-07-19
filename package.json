@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run build"
+    "start": "npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ColbyJax19/swc-site/issues"
   },
-  "homepage": "https://github.com/ColbyJax19/swc-site#readme"
+  "homepage": "https://github.com/ColbyJax19/swc-site",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
