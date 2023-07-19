@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/ColbyJax19/swc-site/issues"
   },
-  "homepage": "https://github.com/ColbyJax19/swc-site",
+  "homepage": "https://colbyjax19.github.io/swc-site/",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
